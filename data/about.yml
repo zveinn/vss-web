@@ -1,15 +1,15 @@
 enable : true
-heading : About
-headingSpan : Us
+heading : Um
+headingSpan : Okkur
 aboutItem : 
 - icon : tf-tools
-  title : We're Creative
+  title : Fagmennska
   content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
 
 - icon : tf-strategy
-  title : We're Professional
+  title : Frumkvæði
   content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
 
 - icon : tf-anchor2
-  title : We're Genius
+  title : Framtíðin
   content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.

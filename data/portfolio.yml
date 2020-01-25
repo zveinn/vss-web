@@ -1,76 +1,76 @@
 enable : true
-heading : Our
-headingSpan : Works
+heading : Okkar
+headingSpan : Verkefni
 filterList :
-  - filterType : photography
-    filterTitle : Photography
+  - filterType : eftirlit
+    filterTitle : eftirlit
     
-  - filterType : design
-    filterTitle : Design
-    
-  - filterType : development
-    filterTitle : Development
+  - filterType : teikningar
+    filterTitle : teikningar
+  
+  - filterType : annað
+    filterTitle : annað
 
 portfolioItem :
-  - types : design
+  - types : teikningar
     image : images/portfolio/portfolio-1.jpg
     icon : tf-ion-android-search
     URL : #
-    title : Tag Design
+    title : Tag teikningar
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     
-  - types : development
+  - types : annað
     image : images/portfolio/portfolio-2.jpg
     icon : tf-ion-android-search
     URL : #
     title : Sound system
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     
-  - types : design development
+  - types : teikningar annað
     image : images/portfolio/portfolio-3.jpg
     icon : tf-ion-android-search
     URL : #
     title : Clock Product
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     
-  - types : photography development
+  - types : eftirlit annað
     image : images/portfolio/portfolio-4.jpg
     icon : tf-ion-android-search
     URL : #
     title : Bottol Label
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     
-  - types : design
+  - types : teikningar
     image : images/portfolio/portfolio-5.jpg
     icon : tf-ion-android-search
     URL : #
     title : Shopping Bag
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     
-  - types : photography
+  - types : eftirlit
     image : images/portfolio/portfolio-6.jpg
     icon : tf-ion-android-search
     URL : #
-    title : Tag Design
+    title : Tag teikningar
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     
-  - types : development
+  - types : annað
     image : images/portfolio/portfolio-7.jpg
     icon : tf-ion-android-search
     URL : #
     title : Business Card
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     
-  - types : design development
+  - types : teikningar annað 
     image : images/portfolio/portfolio-8.jpg
     icon : tf-ion-android-search
     URL : #
-    title : Stationary Design
+    title : Stationary teikningar
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     
-  - types : design photography
+  - types : teikningar eftirlit
     image : images/portfolio/portfolio-2.jpg
     icon : tf-ion-android-search
     URL : #
-    title : Tag Design
+    title : Tag teikningar
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!

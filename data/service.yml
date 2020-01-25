@@ -1,27 +1,27 @@
 enable : true
-heading : Our
-headingSpan : Services
+heading : Okkar
+headingSpan : Þjónustur
 serviceItem :
   - icon : tf-globe
-    title : WordPress Theme
+    title : Teikningar
     content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
     
   - icon : tf-ion-laptop
-    title : Responsive Design
+    title : Eftirlit
     content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
     
   - icon : tf-genius
-    title : Media &amp; Advertisement
+    title : Rekstur
     content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
     
   - icon : tf-dial
-    title : Graphic Design
+    title : Hönnun
     content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
     
   - icon : tf-target3
-    title : Apps Development
+    title : Eithvað meira
     content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
     
   - icon : tf-lifesaver
-    title : Networking
+    title : Eithvað meira
     content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.

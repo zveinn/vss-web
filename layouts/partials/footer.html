@@ -13,7 +13,7 @@
 					</ul>
 				</div>
 
-				{{"<!-- copyright -->" | safeHTML}}
+				<!-- {{"copyright" | safeHTML}}
 				<div class="copyright text-center">
 					<a href="{{ .Site.BaseURL | absURL }}">
 						<img src="{{ .Site.Params.logo | absURL }}" alt="Meghna" />
@@ -23,7 +23,7 @@
 					<p>Design And Developed by <a href="{{ .Site.Params.footer.copyrightURL | absURL }}"> {{ with .Site.Params.footer.copyright }} {{ . }} {{ end }} </a>. Copyright &copy; <script>
 							document.write(new Date().getFullYear())
 						</script>. All Rights Reserved.</p>
-				</div>
+				</div> -->
 			</div>
 		</div>
 	</div>
@@ -57,14 +57,14 @@
 		{{ $script := resources.Get "js/script.js" | minify}}
 		<script src="{{ $script.Permalink }}"></script>
 		{{ "<!-- google analitycs -->" | safeHTML }}
-		<script>
+		<!-- <script>
 				(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 				ga('create', '{{ .Site.Params.googleAnalitycsID }}', 'auto');
 				ga('send', 'pageview');
-		</script>
+		</script> -->
 
     </body>
 </html>

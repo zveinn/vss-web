@@ -1,7 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "https://www.vss.is"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "Meghna"
+title = "VSS"
 theme = "meghna-hugo"
 summaryLength = 10
 
@@ -13,37 +13,34 @@ summaryLength = 10
 # Menu
 [menu]
     [[menu.nav]]
-    name = "About Us"
+    name = "Um Okkur"
     URL = "about"
     weight = 2
 
     [[menu.nav]]
-    name = "Service"
+    name = "Þjónustur"
     URL = "services"
     weight = 3
 
     [[menu.nav]]
-    name = "Portfolio"
+    name = "Verkefni"
     URL = "portfolio"
     weight = 4
 
     [[menu.nav]]
-    name = "Team"
+    name = "Starfsmenn"
     URL = "our-team"
     weight = 5
 
-    [[menu.nav]]
-    name = "Pricing"
-    URL = "pricing"
-    weight = 6
+
 
     [[menu.nav]]
-    name = "Blog"
+    name = "Fréttir"
     URL = "blog"
     weight = 7
 
     [[menu.nav]]
-    name = "Contact"
+    name = "Hafa samband"
     URL = "contact-us"
     weight = 8
 
@@ -63,42 +60,42 @@ custom_css = ["css/custom.css"]
     [params.banner]
     enable = true
     bgImage = "images/slider/hero-area.jpg"
-    icon = "tf-ion-play"
-    heading = "Experience the new reality"
-    content= "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+    icon = ""
+    heading = "Verkfræðistofa Suðurnesja"
+    content= "Meira um verkfræði stofuna.."
     btn = true
-    btnText="Explore Us"
-    btnURL="#services"
+    btnText="Velkomin/n"
+    btnURL="#about"
 
     # call to action
     [params.cta]
     enable = true
-    title = "Great Design & Incredible Features"
-    content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+    title = "Stór verkefni og fagleg þjónusta"
+    content = "Eithvað meira um okkur .."
     btnURL = "#"
-    btnText = "Start a project with us"
+    btnText = "Vinnum saman !"
 
     # counter
     [params.counter]
     enable = true
     bgImage = "images/backgrounds/bg-1.jpg"
         [[params.counter.counterItem]]
-        title = "Happy Clients"
+        title = "Starfsfólk"
         icon = "tf-ion-android-happy"
         count = "320"
 
         [[params.counter.counterItem]]
-        title = "Projects completed"
+        title = "Verkefni"
         icon = "tf-ion-archive"
         count = "565"
 
         [[params.counter.counterItem]]
-        title = "Positive feedback"
+        title = "Ánægðir kúnnar"
         icon = "tf-ion-thumbsup"
         count = "95"
 
         [[params.counter.counterItem]]
-        title = "Cups of Coffee"
+        title = "Kaffibollar"
         icon = "tf-ion-coffee"
         count = "2500"
 
