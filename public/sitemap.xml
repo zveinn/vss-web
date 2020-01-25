@@ -3,94 +3,94 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.vss.is/author/john-doe/</loc>
+    <loc>https://vss.zkynet.tech/author/john-doe/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.vss.is/blog/are-you-doing-the-right-way/</loc>
+    <loc>https://vss.zkynet.tech/blog/are-you-doing-the-right-way/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.vss.is/author/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.vss.is/blog/</loc>
+    <loc>https://vss.zkynet.tech/author/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.vss.is/</loc>
+    <loc>https://vss.zkynet.tech/blog/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.vss.is/author/somrat/</loc>
+    <loc>https://vss.zkynet.tech/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vss.zkynet.tech/author/somrat/</loc>
     <lastmod>2018-09-12T14:39:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.vss.is/blog/simple-post-title/</loc>
+    <loc>https://vss.zkynet.tech/blog/simple-post-title/</loc>
     <lastmod>2018-09-12T14:39:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.vss.is/author/jamica-jock/</loc>
+    <loc>https://vss.zkynet.tech/author/jamica-jock/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.vss.is/blog/simple-image-post/</loc>
+    <loc>https://vss.zkynet.tech/blog/simple-image-post/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.vss.is/categories/</loc>
+    <loc>https://vss.zkynet.tech/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.vss.is/blog/installation/</loc>
+    <loc>https://vss.zkynet.tech/blog/installation/</loc>
   </url>
   
   <url>
-    <loc>https://www.vss.is/tags/</loc>
+    <loc>https://vss.zkynet.tech/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.vss.is/author/themefisher/</loc>
+    <loc>https://vss.zkynet.tech/author/themefisher/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.vss.is/tags/golang/</loc>
+    <loc>https://vss.zkynet.tech/tags/golang/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.vss.is/tags/hugo/</loc>
+    <loc>https://vss.zkynet.tech/tags/hugo/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.vss.is/tags/programming/</loc>
+    <loc>https://vss.zkynet.tech/tags/programming/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.vss.is/categories/starting/</loc>
+    <loc>https://vss.zkynet.tech/categories/starting/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.vss.is/tags/theme/</loc>
+    <loc>https://vss.zkynet.tech/tags/theme/</loc>
     <priority>0</priority>
   </url>
   
