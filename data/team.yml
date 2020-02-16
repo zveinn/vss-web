@@ -2,58 +2,101 @@ enable : true
 heading : Traust
 headingSpan : Starfsfólk
 teamMember :
-  - image : images/team/team-1.jpg
-    name : Abul Mal Muhit
-    designation : CEO/Founder
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    socialIcon :
-      - icon : tf-ion-social-facebook
-        url : "#"
-      - icon : tf-ion-social-twitter
-        url : "#"
-      - icon : tf-ion-social-linkedin
-        url : "#"
-      - icon : tf-ion-social-dribbble-outline
-        url : "#"
-      
+
   - image : images/team/team-2.jpg
-    name : Frank Miller
-    designation : Manager
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    socialIcon :
-      - icon : tf-ion-social-facebook
-        url : "#"
-      - icon : tf-ion-social-twitter
-        url : "#"
-      - icon : tf-ion-social-linkedin
-        url : "#"
-      - icon : tf-ion-social-dribbble-outline
-        url : "#"
+    name : Brynjólfur Guðmundsson
+    designation : Framkvæmdastjóri
+    phone : 660 5990
+    email : bg@vss.is
+
+  - image : images/team/team-1.jpg
+    name : Benedikt Ingi Sigurðsson
+    designation : Tæknifræðingur
+    phone : 660 5998 / 420 0105	
+    email : benni@vss.is
       
   - image : images/team/team-3.jpg
-    name : Michael Jonson
-    designation : Web Developer
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    socialIcon :
-      - icon : tf-ion-social-facebook
-        url : "#"
-      - icon : tf-ion-social-twitter
-        url : "#"
-      - icon : tf-ion-social-linkedin
-        url : "#"
-      - icon : tf-ion-social-dribbble-outline
-        url : "#"
+    name : Emil Birgir Hallgrímsson	
+    designation : Byggingartæknifræðingur
+    phone : 660 5999
+    email: emil@vss.is
       
+  - image : images/team/team-3.jpg
+    name : Gísli Lárusson
+    designation : Orkuverkfræðingur
+    phone : 660 5984
+    email : gisli@vss.is 
+
   - image : images/team/team-4.jpg
-    name : Mo. Kha. Alamgir
-    designation : SEO Specialist
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    socialIcon :
-      - icon : tf-ion-social-facebook
-        url : "#"
-      - icon : tf-ion-social-twitter
-        url : "#"
-      - icon : tf-ion-social-linkedin
-        url : "#"
-      - icon : tf-ion-social-dribbble-outline
-        url : "#"
+    name : Guðrún Jóna Guðjónsdóttir
+    designation : Byggingafræðingur
+    phone : 420 0100.
+    email : gudrunj@vss.is
+
+
+  - image : images/team/team-2.jpg
+    name : Hilmar Örn Arnórsson
+    designation : Byggingartæknifræðingur
+    phone : 772 1830
+    email : hilmar@vss.is
+      
+  - image : images/team/team-1.jpg
+    name : Ingimundur Þ. Guðnason
+    designation : Rafmagnstæknifræðingur
+    phone : 660 5993 / 420 0114
+    email : ingimundur@vss.is
+
+
+  - image : images/team/team-2.jpg
+    name : Ingiþór Björnsson
+    designation : Byggingafræðingur
+    phone : 660 5996 / 420 0104
+    email : ingithor@vss.is
+
+  - image : images/team/team-3.jpg
+    name : Marinó Gunnarsson
+    designation : Byggingartæknifræðingur
+    phone : 660 5997 / 420 0115
+    email : marino@vss.is
+
+  - image : images/team/team-3.jpg
+    name : Pétur Jóhannsson
+    designation : Bókhald
+    phone : 420-0103
+    email : petur@vss.is
+
+  - image : images/team/team-3.jpg
+    name : Rúnar Þór Guðmundsson
+    designation : Byggingarverkfræðingur	
+    phone : 661 7709.
+    email : runar@vss.is
+
+  - image : images/team/team-4.jpg
+    name : Sigrún Vilhelmsdóttir
+    designation : Tækniteiknari
+    phone : 866 2431 / 420 0102
+    email : sigrun@vss.is
+
+  - image : images/team/team-1.jpg
+    name : Sigurður Sigurðsson
+    designation : Byggingartæknifræðingur
+    phone : 660 5987 / 420 0113.
+    email : sigurdur@vss.is
+
+  - image : images/team/team-3.jpg
+    name : Sindri Þrastarson
+    designation : Byggingarverkfræði
+    phone : 660 5992
+    email : sindri@vss.is
+
+  - image : images/team/team-3.jpg
+    name : Skúli Ágústsson
+    designation : Byggingartæknifræðingur
+    phone : 660 5989 / 420 0100
+    email : skuli@vss.is
+
+  - image : images/team/team-2.jpg
+    name : Sævar Sigurðsson
+    designation : Mælingamaður
+    phone : 660 5983 / 420 0112
+    email  : saevar@vss.is

@@ -2419,3 +2419,6 @@ background-color: #FF6600
 .map { 
       padding-bottom: 20px;
 }
+.info {
+  margin-bottom:0px;
+}
