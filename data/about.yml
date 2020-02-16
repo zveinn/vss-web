@@ -2,14 +2,14 @@ enable : true
 heading : Um
 headingSpan : Okkur
 aboutItem : 
-- icon : tf-tools
+- icon : tf-ion-android-chat
   title : Fagmennska
   content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
 
-- icon : tf-strategy
+- icon : tf-ion-android-bulb
   title : Frumkvæði
   content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
 
-- icon : tf-anchor2
+- icon : tf-ion-android-calendar
   title : Framtíðin
   content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.

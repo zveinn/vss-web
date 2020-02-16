@@ -36,10 +36,7 @@ summaryLength = 10
 
 
 
-    [[menu.nav]]
-    name = "Fréttir"
-    URL = "blog"
-    weight = 7
+ 
 
     [[menu.nav]]
     name = "Hafa samband"
@@ -73,7 +70,7 @@ custom_css = ["css/custom.css"]
     [params.cta]
     enable = true
     title = "Stór verkefni og fagleg þjónusta"
-    content = "Eithvað meira um okkur .."
+    content = ""
     btnURL = "#contact-us"
     btnText = "Vinnum saman !"
 
