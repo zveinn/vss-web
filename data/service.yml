@@ -2,26 +2,27 @@ enable : true
 heading : Okkar
 headingSpan : Þjónustur
 serviceItem :
-  - icon : tf-globe
-    title : Teikningar
+  - icon : tf-ion-ios-world-outline
+    title : Skipulagsmál
+    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  
+  - icon : tf-ion-jet
+    title : Flugmannvirki
     content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
     
   - icon : tf-ion-laptop
-    title : Eftirlit
+    title : Verkefnastjórnun
+    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+
+  - icon : tf-ion-android-car
+    title : Samgöngur og umhverfi
     content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
     
-  - icon : tf-genius
-    title : Rekstur
+  - icon : tf-ion-ios-people-outline
+    title : Byggingar og mannvirki
     content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
     
-  - icon : tf-dial
-    title : Hönnun
+  - icon : tf-ion-ios-videocam-outline
+    title : Framkvæmdir og mælingar
     content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
     
-  - icon : tf-target3
-    title : Eithvað meira
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-    
-  - icon : tf-lifesaver
-    title : Eithvað meira
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.

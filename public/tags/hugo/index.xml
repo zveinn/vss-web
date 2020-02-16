@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hugo on VSS</title>
@@ -12,10 +12,10 @@
     
     <item>
       <title>How To Setup Meghna Hugo</title>
-      <link>https://vss.zkynet.tech/blog/installation/</link>
+      <link>https://vss.zkynet.tech/verkefni/how-to-setup-meghna-hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vss.zkynet.tech/blog/installation/</guid>
+      <guid>https://vss.zkynet.tech/verkefni/how-to-setup-meghna-hugo/</guid>
       <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer.</description>
     </item>
     

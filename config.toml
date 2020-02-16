@@ -4,6 +4,8 @@ DefaultContentLanguage = "en"
 title = "VSS"
 theme = "meghna-hugo"
 summaryLength = 10
+[permalinks]
+  blog = "verkefni/:title"
 
 [taxonomies]
   author = "author"
@@ -59,12 +61,12 @@ custom_css = ["css/custom.css"]
     # Banner Section
     [params.banner]
     enable = true
-    bgImage = "images/slider/hero-area.jpg"
+    bgImage = "images/slider/slider.jpg"
     icon = ""
     heading = "Verkfræðistofa Suðurnesja"
-    content= "Meira um verkfræði stofuna.."
+    content= ""
     btn = true
-    btnText="Velkomin/n"
+    btnText=""
     btnURL="#about"
 
     # call to action
@@ -72,13 +74,13 @@ custom_css = ["css/custom.css"]
     enable = true
     title = "Stór verkefni og fagleg þjónusta"
     content = "Eithvað meira um okkur .."
-    btnURL = "#"
+    btnURL = "#contact-us"
     btnText = "Vinnum saman !"
 
     # counter
     [params.counter]
     enable = true
-    bgImage = "images/backgrounds/bg-1.jpg"
+    bgImage = "images/backgrounds/slide.jpg"
         [[params.counter.counterItem]]
         title = "Starfsfólk"
         icon = "tf-ion-android-happy"

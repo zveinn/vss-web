@@ -1,21 +1,21 @@
 enable : true
 heading : Hafa
 headingSpan : Samband
-title : Contact Details
-content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
-enable_maps : false
+title : Upplýsingar
+content : Við tökum vel á móti öllum sem koma á skrifstofuna til okkar.
+enable_maps : true
 mapLatitude : 51.5223477
 mapLongitude: -0.1622023
 contactDetails :
   - icon : tf-map-pin
-    info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+    info : "Víkurbraut 13, 230 Reykjanesbæ."
     
   - icon : tf-ion-ios-telephone-outline
-    info : "Phone: +880-31-000-000"
+    info : "Sími: 420 0100"
     
   - icon : tf-ion-iphone
-    info : "Fax: +880-31-000-000"
+    info : "Fax: 420 0111"
     
   - icon : tf-ion-ios-email-outline
-    info : "Email: hello@meghna.com"
+    info : "Email: vs@vss.is"
     

@@ -13,64 +13,73 @@ filterList :
 
 portfolioItem :
   - types : teikningar
-    image : images/portfolio/portfolio-1.jpg
+    image : images/portfolio/1.jpg
+    link : "/verkefni/are-you-doing-the-right-way/"
     icon : tf-ion-android-search
     URL : #
-    title : Tag teikningar
+    title : Verkefni 1
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     
   - types : annað
-    image : images/portfolio/portfolio-2.jpg
+    image : images/portfolio/2.jpg
+    link : "/verkefni/are-you-doing-the-right-way/"
     icon : tf-ion-android-search
     URL : #
-    title : Sound system
+    title : Verkefni 2
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     
   - types : teikningar annað
-    image : images/portfolio/portfolio-3.jpg
+    image : images/portfolio/3.jpg
+    link : "/verkefni/are-you-doing-the-right-way/"
     icon : tf-ion-android-search
     URL : #
-    title : Clock Product
+    title : Verkefni 3
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     
   - types : eftirlit annað
-    image : images/portfolio/portfolio-4.jpg
+    image : images/portfolio/4.jpg
+    link : "/verkefni/are-you-doing-the-right-way/"
     icon : tf-ion-android-search
     URL : #
-    title : Bottol Label
+    title : Verkefni 4
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     
   - types : teikningar
-    image : images/portfolio/portfolio-5.jpg
+    image : images/portfolio/5.jpg
+    link : "/verkefni/are-you-doing-the-right-way/"
     icon : tf-ion-android-search
     URL : #
-    title : Shopping Bag
+    title : Vekefni 5
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     
   - types : eftirlit
-    image : images/portfolio/portfolio-6.jpg
+    image : images/portfolio/6.jpg
+    link : "/verkefni/are-you-doing-the-right-way/"
     icon : tf-ion-android-search
     URL : #
-    title : Tag teikningar
+    title : verkefni 6
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     
   - types : annað
-    image : images/portfolio/portfolio-7.jpg
+    image : images/portfolio/7.jpg
+    link : "/verkefni/are-you-doing-the-right-way/"
     icon : tf-ion-android-search
     URL : #
-    title : Business Card
+    title : Verkefni 7
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     
   - types : teikningar annað 
-    image : images/portfolio/portfolio-8.jpg
+    image : images/portfolio/8.jpg
+    link : "/verkefni/are-you-doing-the-right-way/"
     icon : tf-ion-android-search
     URL : #
-    title : Stationary teikningar
+    title : Verkefni 8
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     
   - types : teikningar eftirlit
-    image : images/portfolio/portfolio-2.jpg
+    image : images/portfolio/9.jpg
+    link : "/verkefni/are-you-doing-the-right-way/"
     icon : tf-ion-android-search
     URL : #
-    title : Tag teikningar
+    title : Verkefni 9
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!

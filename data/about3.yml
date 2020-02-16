@@ -1,0 +1,13 @@
+enable : true
+image : images/about/about-business-man.jpg
+title : Okkar viðskiptavinir
+description : HS orka, HS veitur, Reykjanesbær, Grindavíkurbær, Sveitarfélagið Garður, Fasteign hf., Siglingastofnun, Bláa lónið ehf, Reykjaneshöfn, Síldarvinnslan, Heilbrigðisstofnun Suðurnesja, Isavia, Utanríkisráðuneytið, Fasteignir ríkissjóðs, Framkvæmdasýsla ríkisins, Aalborg Portland Ísland, Þróunarfélag Keflavíkurflugvallar auk margra annarra.
+description2 : 
+aboutItem : 
+  - icon : tf-circle-compass
+    title : Eftirlit
+    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    
+  - icon : tf-hotairballoon
+    title : Teikningar
+    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe

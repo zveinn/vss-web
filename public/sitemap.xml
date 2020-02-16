@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -8,26 +8,23 @@
   </url>
   
   <url>
-    <loc>https://vss.zkynet.tech/blog/are-you-doing-the-right-way/</loc>
+    <loc>https://vss.zkynet.tech/verkefni/are-you-doing-the-right-way/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://vss.zkynet.tech/author/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://vss.zkynet.tech/blog/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://vss.zkynet.tech/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -36,7 +33,7 @@
   </url>
   
   <url>
-    <loc>https://vss.zkynet.tech/blog/simple-post-title/</loc>
+    <loc>https://vss.zkynet.tech/verkefni/simple-post-title/</loc>
     <lastmod>2018-09-12T14:39:16+06:00</lastmod>
   </url>
   
@@ -46,52 +43,44 @@
   </url>
   
   <url>
-    <loc>https://vss.zkynet.tech/blog/simple-image-post/</loc>
+    <loc>https://vss.zkynet.tech/verkefni/simple-image-post/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://vss.zkynet.tech/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vss.zkynet.tech/blog/installation/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vss.zkynet.tech/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vss.zkynet.tech/author/themefisher/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://vss.zkynet.tech/tags/golang/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vss.zkynet.tech/verkefni/how-to-setup-meghna-hugo/</loc>
   </url>
   
   <url>
     <loc>https://vss.zkynet.tech/tags/hugo/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://vss.zkynet.tech/tags/programming/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://vss.zkynet.tech/categories/starting/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vss.zkynet.tech/tags/</loc>
   </url>
   
   <url>
     <loc>https://vss.zkynet.tech/tags/theme/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vss.zkynet.tech/author/themefisher/</loc>
   </url>
   
 </urlset>

@@ -22,7 +22,7 @@
                     {{"<!-- Express About Yourself -->" | safeHTML}}
                     <div class="content text-center">
                         {{ with .title }}<h3 class="ddd">{{ . }}</h3>{{ end }}
-                        {{ with .content}}  <p>{{ . }}</p>{{ end }}
+                        {{ with .content}} <p>{{ . }}</p>{{ end }}
                     </div>
                 </div>
             </div>
@@ -36,17 +36,14 @@
 {{ if .Site.Data.about2.enable }}
 {{"<!-- about 2 -->" | safeHTML}}
 <section class="section section-bg about-2 padding-0">
-    <div class="container-fluid">
+    <div class="container">
         <div class="row">
             <div class="col-lg-6 padding-0 ">
-                <img class="img-fluid" src="{{ .Site.Data.about2.image | absURL}}" alt="image">
-            </div>
-            <div class="col-lg-6">
                 <div class="content-block">
                     {{with .Site.Data.about2.title}} <h2>{{ . }}</h2> {{ end }}
                     {{with .Site.Data.about2.description}} <p>{{ . }}</p> {{ end }}
                     {{with .Site.Data.about2.description2}} <p>{{ . }}</p> {{ end }}
-                    <div class="row">
+                    <!-- <div class="row">
                         {{ range .Site.Data.about2.aboutItem }}
                         <div class="col-lg-6">
                             <div class="media">
@@ -60,7 +57,30 @@
                             </div>
                         </div>
                         {{ end }}
-                    </div>
+                    </div> -->
+                </div>
+                <!-- <img class="img-fluid" src="{{ .Site.Data.about2.image | absURL}}" alt="image"> -->
+            </div>
+            <div class="col-lg-6">
+                <div class="content-block">
+                    {{with .Site.Data.about3.title}} <h2>{{ . }}</h2> {{ end }}
+                    {{with .Site.Data.about3.description}} <p>{{ . }}</p> {{ end }}
+                    {{with .Site.Data.about3.description2}} <p>{{ . }}</p> {{ end }}
+                    <!-- <div class="row">
+                        {{ range .Site.Data.about2.aboutItem }}
+                        <div class="col-lg-6">
+                            <div class="media">
+                                <div class="align-self-start mr-3">
+                                    {{with .icon}} <i class="{{ . }}"></i> {{ end }}
+                                </div>
+                                <div class="media-body">
+                                    {{with .title}} <h4 class="media-heading">{{ . }}</h4>{{ end }}
+                                    {{ with .content}} <p>{{ . }}</p> {{ end }}
+                                </div>
+                            </div>
+                        </div>
+                        {{ end }}
+                    </div> -->
                 </div>
             </div>
         </div>
