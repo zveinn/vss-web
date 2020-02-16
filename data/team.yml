@@ -1,6 +1,6 @@
 enable : true
-heading : Traustir
-headingSpan : Starfsmenn
+heading : Traust
+headingSpan : Starfsfólk
 teamMember :
   - image : images/team/team-1.jpg
     name : Abul Mal Muhit
