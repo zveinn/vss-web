@@ -69,10 +69,10 @@ custom_css = ["css/custom.css"]
     # call to action
     [params.cta]
     enable = true
-    title = "Stór verkefni og fagleg þjónusta"
+    title = "Verkfræðistofan er aðili að Félagi ráðgjafarverkfræðinga (FRV)."
     content = ""
     btnURL = "#contact-us"
-    btnText = "Vinnum saman !"
+    btnText = "Vinnum saman"
 
     # counter
     [params.counter]

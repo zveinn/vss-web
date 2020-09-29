@@ -2,12 +2,3 @@ enable : true
 image : images/about/about-business-man.jpg
 title : Verkfræðistofan
 description : Verkfræðistofa Suðurnesja (VSS) var stofnuð 2. febrúar 1980 og er einkahlutafélag. Stofan er með starfsemi sína í eigin húsnæði að Víkurbraut 13, Reykjanesbæ. Framkvæmdastjóri er Brynjólfur Guðmundsson, byggingarverkfræðingur. Um 15 starfsmenn starfa hjá fyrirtækinu, þar af níu verk- og tæknifræðingar, byggingarfræðingur, tveir með B.Sc. í verkfræði, mælingamaður, tækniteiknari og bókari.
-description2 : 
-aboutItem : 
-  - icon : tf-circle-compass
-    title : Eftirlit
-    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-    
-  - icon : tf-hotairballoon
-    title : Teikningar
-    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe

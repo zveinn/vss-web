@@ -1,0 +1,55 @@
+enable: true
+heading: Stefnur
+headingSpan: VSS
+filterList:
+
+directionItem :
+  - types :  mannvirki
+    image : images/portfolio/1.jpg
+    link : "/verkefni/gaedastefna/"
+    icon : tf-ion-android-search
+    URL : #
+    title : Gæðastefna
+    description : 
+    
+  - types :  mannvirki
+    image : images/portfolio/2.jpg
+    link : "/verkefni/jafnretti-og-fjolskylda/"
+    icon : tf-ion-android-search
+    URL : #
+    title : Janfréttis og fjölskyldustefna
+    description : 
+
+  - types :  mannvirki
+    image : images/portfolio/2.jpg
+    link : "/verkefni/oryggisstefna/"
+    icon : tf-ion-android-search
+    URL : #
+    title : Öryggis-, heilbrigðis- og vinnuumhverfisstefna
+    description : 
+
+  - types :  mannvirki
+    image : images/portfolio/2.jpg
+    link : "/verkefni/samgongustefna/"
+    icon : tf-ion-android-search
+    URL : #
+    title : Samgöngustefna
+    description : 
+  
+  - types :  mannvirki
+    image : images/portfolio/2.jpg
+    link : "/verkefni/starfsmannastefna/"
+    icon : tf-ion-android-search
+    URL : #
+    title : Starfsmannastefna
+    description :
+
+    
+
+  - types :  mannvirki
+    image : images/portfolio/2.jpg
+    link : "/verkefni/umhverfisstefna/"
+    icon : tf-ion-android-search
+    URL : #
+    title : Umhverfisstefna
+    description :
