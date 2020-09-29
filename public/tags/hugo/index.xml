@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hugo on VSS</title>
-    <link>https://vss.zkynet.tech/tags/hugo/</link>
+    <link>https://dev.vss.is/tags/hugo/</link>
     <description>Recent content in hugo on VSS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://vss.zkynet.tech/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dev.vss.is/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How To Setup Meghna Hugo</title>
-      <link>https://vss.zkynet.tech/verkefni/how-to-setup-meghna-hugo/</link>
+      <link>https://dev.vss.is/verkefni/how-to-setup-meghna-hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vss.zkynet.tech/verkefni/how-to-setup-meghna-hugo/</guid>
+      <guid>https://dev.vss.is/verkefni/how-to-setup-meghna-hugo/</guid>
       <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer.</description>
     </item>
     
