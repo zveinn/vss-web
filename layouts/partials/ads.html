@@ -1,0 +1,26 @@
+{{"<!-- Start Call To Action -->" | safeHTML}}
+<section class="call-to-action section-sm bg-1 overly"
+    style='background-image: url("{{ .Site.Params.counter.bgImage | absURL }}")'>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h1 class="middle-section-text">
+                    Hluti af stefnu Verkfræðistofu Suðurnesja er að láta gott af sér leiða.
+                    <br>
+                    <br> Í samræmi við þá stefnu styrkjum
+                    við
+                    reglulega margvísleg málefni sem stuðla á einhvern hátt að uppbyggingu og framförum samfélagsins.
+                    <br>
+                    <br>
+                    Hægt er að sækja um styrk og bjóða til sölu auglýsingar með því að senda okkur tölvupóst.
+
+                    <br>
+                    <br><a href="{{ .Site.Params.cta.btnURL }}" class="btn btn-main">{{ with .Site.Params.cta.btnText }}
+                        {{ . }}
+                        {{end}}</a>
+                </h1>
+            </div>
+        </div>
+    </div>
+</section>
+{{"<!-- Start Services Section -->" | safeHTML}}

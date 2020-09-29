@@ -6,10 +6,19 @@
     <description>Recent content in Author on VSS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0600</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2020 14:51:12 +0600</lastBuildDate>
     
 	<atom:link href="https://vss.zkynet.tech/author/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Benedikt</title>
+      <link>https://vss.zkynet.tech/author/benedikt/</link>
+      <pubDate>Sat, 12 Sep 2020 14:51:12 +0600</pubDate>
+      
+      <guid>https://vss.zkynet.tech/author/benedikt/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>

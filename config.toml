@@ -77,7 +77,7 @@ custom_css = ["css/custom.css"]
     # counter
     [params.counter]
     enable = true
-    bgImage = "images/backgrounds/slide.jpg"
+    bgImage = "images/backgrounds/slide4.jpg"
         [[params.counter.counterItem]]
         title = "Starfsfólk"
         icon = "tf-ion-android-happy"
