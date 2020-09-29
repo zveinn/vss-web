@@ -2428,3 +2428,12 @@ background-color: #FF6600
     color:black !important;
     text-align: center !important;
 }
+
+
+.client-section-text {
+    color:black !important;
+    text-align: center !important;
+    font-size: 4em;
+    font-weight: 600;
+    margin-bottom:40px;
+}

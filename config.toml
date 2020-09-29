@@ -79,26 +79,64 @@ custom_css = ["css/custom.css"]
     enable = true
     bgImage = "images/backgrounds/slide4.jpg"
         [[params.counter.counterItem]]
-        title = "Starfsfólk"
-        icon = "tf-ion-android-happy"
-        count = "320"
+        title = "HS orka"
 
         [[params.counter.counterItem]]
-        title = "Verkefni"
-        icon = "tf-ion-archive"
-        count = "565"
+        title = "HS veitur"
 
         [[params.counter.counterItem]]
-        title = "Ánægðir kúnnar"
-        icon = "tf-ion-thumbsup"
-        count = "95"
+        title = "Reykjanesbær"
 
         [[params.counter.counterItem]]
-        title = "Kaffibollar"
-        icon = "tf-ion-coffee"
-        count = "2500"
+        title = "Grindavíkurbær"
 
-    # footer
+        [[params.counter.counterItem]]
+        title = "Sveitarfélagið Garður"
+
+        [[params.counter.counterItem]]
+        title = "Fasteign hf"
+
+        [[params.counter.counterItem]]
+        title = "Siglingastofnun"
+
+        [[params.counter.counterItem]]
+        title = "Bláa lónið ehf"
+
+        [[params.counter.counterItem]]
+        title = "Reykjaneshöfn"
+
+        [[params.counter.counterItem]]
+        title = "Síldarvinnslan"
+
+        [[params.counter.counterItem]]
+        title = "Heilbrigðisstofnun Suðurnesja"
+
+        [[params.counter.counterItem]]
+        title = "Isavia"
+
+        [[params.counter.counterItem]]
+        title = "Utanríkisráðuneytið"
+
+        [[params.counter.counterItem]]
+        title = "Fasteignir ríkissjóðs"
+
+        [[params.counter.counterItem]]
+        title = "Framkvæmdasýsla ríkisins"
+
+        [[params.counter.counterItem]]
+        title = "Aalborg Portland Ísland"
+
+        [[params.counter.counterItem]]
+        title = "Þróunarfélag Keflavíkurflugvallar"
+
+
+
+
+
+
+
+
+
     [params.footer]
         copyright = "Themefisher Team"
         copyrightURL = "http://www.themefisher.com"

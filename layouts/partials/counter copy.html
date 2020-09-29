@@ -1,17 +1,13 @@
 {{ if .Site.Params.counter.enable }}
 {{"<!-- Start Counter Section -->" | safeHTML}}
-<section id="counter" class="parallax-section bg-1 section overly"
-    style='background-image: url("{{ .Site.Params.counter.bgImage | absURL }}")'>
+<section id="counter" class="parallax-section bg-1 section overly" style='background-image: url("{{ .Site.Params.counter.bgImage | absURL }}")'>
     <div class="container">
-        <h1 class="client-section-text">Meðal viðskiptavina okkar eru..</h1>
-        <br>
         <div class="row">
-
             {{ range .Site.Params.counter.counterItem }}
             <div class="col-lg-3 col-md-6 col-12 text-center wow fadeInDown" data-wow-duration="500ms">
                 <div class="counters-item">
-                    <!-- <i class="{{ .icon }}"></i> -->
-                    <!-- <span data-speed="3000" data-to="{{ .count }}">{{ .count }}</span> -->
+                    <i class="{{ .icon }}"></i>
+                    <span data-speed="3000" data-to="{{ .count }}">{{ .count }}</span>
                     <h3>{{ .title }}</h3>
                 </div>
             </div>
