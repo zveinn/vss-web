@@ -2,7 +2,7 @@
 title: "starfsmannastefna"
 date: 2020-09-12T14:51:12+06:00
 author: Benedikt
-image: ""
+image: "images/portfolio/employee.jpg"
 description : "Starfsmannastefna"
 ---
 Verkfræðistofa Suðurnesja einsetur sér að hafa yfir að ráða vel menntuðu, hæfu og heiðarlegu starfsfólki og að lögð sé áhersla á fagleg og vönduð vinnubrögð. Verkfræðistofa Suðurnesja leggur áherslu á að starfsfólki líði vel í vinnunni, að starfsandi sé góður og að starfsfólk sýni ábyrgð, frumkvæði og sjálfstæði í starfi.

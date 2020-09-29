@@ -2,7 +2,7 @@
 title: "oryggisstefna"
 date: 2020-09-12T14:51:12+06:00
 author: Benedikt
-image: ""
+image: "images/portfolio/safety.jpg"
 description : "Öryggis-, heilbrigðis- og vinnuumhverfisstefna"
 ---
 Verkfræðistofa Suðurnesja einsetur sér að vera leiðandi í öryggis- og heilbrigðismálum á vinnustað, hvort sem er í starfsstöðvum fyrirtækisins eða á verkstað og stuðla þannig að auknu öryggi í þjóðfélaginu. Fyrirtækið leggur mikla áherslu á öryggi, heilbrigði og vinnuumhverfi í starfsemi sinni til að allir starfsmenn hafi heilsusamleg og ánægjuleg vinnuskilyrði.

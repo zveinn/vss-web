@@ -2,7 +2,7 @@
 title: "umhverfisstefna"
 date: 2020-09-12T14:51:12+06:00
 author: Benedikt
-image: ""
+image: "images/portfolio/environment.jpg"
 description : "Umhverfisstefna"
 ---
 Verkfræðistofa Suðurnesja einsetur sér að að taka tillit til umhverfisins í allri starfsemi sinni og stuðla að sjálfbærri þróun í samfélaginu. Fyrirtækið er fylgjandi náttúruvernd og skynsamlegri nýtingu náttúruauðlinda og mun beita þekkingu sinni og fagmennsku með virðingu fyrir umhverfinu að leiðarljósi.

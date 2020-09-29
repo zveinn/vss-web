@@ -5,7 +5,7 @@ filterList:
 
 directionItem :
   - types :  mannvirki
-    image : images/portfolio/1.jpg
+    image : images/portfolio/quality.jpg
     link : "/verkefni/gaedastefna/"
     icon : tf-ion-android-search
     URL : #
@@ -13,7 +13,7 @@ directionItem :
     description : 
     
   - types :  mannvirki
-    image : images/portfolio/2.jpg
+    image : images/portfolio/family.jpg
     link : "/verkefni/jafnretti-og-fjolskylda/"
     icon : tf-ion-android-search
     URL : #
@@ -21,7 +21,7 @@ directionItem :
     description : 
 
   - types :  mannvirki
-    image : images/portfolio/2.jpg
+    image : images/portfolio/safety.jpg
     link : "/verkefni/oryggisstefna/"
     icon : tf-ion-android-search
     URL : #
@@ -29,7 +29,7 @@ directionItem :
     description : 
 
   - types :  mannvirki
-    image : images/portfolio/2.jpg
+    image : images/portfolio/transport.jpg
     link : "/verkefni/samgongustefna/"
     icon : tf-ion-android-search
     URL : #
@@ -37,7 +37,7 @@ directionItem :
     description : 
   
   - types :  mannvirki
-    image : images/portfolio/2.jpg
+    image : images/portfolio/employees.jpg
     link : "/verkefni/starfsmannastefna/"
     icon : tf-ion-android-search
     URL : #
@@ -47,7 +47,7 @@ directionItem :
     
 
   - types :  mannvirki
-    image : images/portfolio/2.jpg
+    image : images/portfolio/environment.jpg
     link : "/verkefni/umhverfisstefna/"
     icon : tf-ion-android-search
     URL : #

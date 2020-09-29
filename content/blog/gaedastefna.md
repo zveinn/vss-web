@@ -2,7 +2,7 @@
 title: "gaedastefna"
 date: 2020-09-12T14:51:12+06:00
 author: Benedikt
-image: ""
+image: "images/portfolio/quality.jpg"
 description : "Gæðastefna"
 ---
 
