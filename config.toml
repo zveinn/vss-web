@@ -59,7 +59,7 @@ custom_css = ["css/custom.css"]
     [params.banner]
     enable = true
     bgImage = "images/slider/slider.jpg"
-    icon = ""
+    icon = "images/logos/vslogo.png"
     heading = "Verkfræðistofa Suðurnesja"
     content= ""
     btn = true
