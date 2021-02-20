@@ -60,7 +60,8 @@ custom_css = ["css/custom.css"]
     enable = true
     bgImage = "images/slider/slider.jpg"
     icon = "images/logos/vslogo.png"
-    heading = "Verkfræðistofa Suðurnesja"
+    heading1 = "Verkfræðistofa"
+    heading2 = "Suðurnesja"
     content= ""
     btn = true
     btnText=""
@@ -109,9 +110,6 @@ custom_css = ["css/custom.css"]
         title = "Síldarvinnslan"
 
         [[params.counter.counterItem]]
-        title = "Heilbrigðisstofnun Suðurnesja"
-
-        [[params.counter.counterItem]]
         title = "Isavia"
 
         [[params.counter.counterItem]]
@@ -128,6 +126,9 @@ custom_css = ["css/custom.css"]
 
         [[params.counter.counterItem]]
         title = "Þróunarfélag Keflavíkurflugvallar"
+        
+        [[params.counter.counterItem]]
+        title = "Heilbrigðisstofnun Suðurnesja"
 
 
 

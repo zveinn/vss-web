@@ -4,13 +4,16 @@
            {{with .Site.Params.banner.icon}} <i class="{{ . }}"></i> {{ end }}
         </div> -->
 
-    {{with .Site.Params.banner.heading}}
-    <h1>{{ . }}</h1>
-    {{ end }} {{with .Site.Params.banner.content}}
+
+    <h1>{{ .Site.Params.banner.heading1 }}</h1>
+    <h1>{{ .Site.Params.banner.heading2 }}</h1>
+
+
+    {{with .Site.Params.banner.content}}
     <p> <a href="https://www.creditinfo.is/framurskarandi/default.aspx">{{ . }}</a></p>
     {{ end }}
-    <a target="blank_" href="https://www.creditinfo.is/framurskarandi/default.aspx"><img class="banner-logo"
-        src="images/logos/best-2018.png" alt="meow"></img></a>
+    <!-- <a target="blank_" href="https://www.creditinfo.is/framurskarandi/default.aspx">
+      <img class="banner-logo" src="images/logos/best-2018.png" alt="meow"></img></a> -->
     <img class="logo" src="{{ .Site.Params.banner.icon }}" />
     <!--  {{ if .Site.Params.banner.btn}}
     <a data-scroll href="{{ .Site.Params.banner.btnURL}}"
