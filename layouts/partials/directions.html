@@ -1,20 +1,16 @@
-{{"<!-- direction Section -->" | safeHTML}}
 <section class="portfolio section" id="portfolio">
     <div class="container">
         <div class="row ">
             <div class="col-xl-12">
-                {{"<!-- section title -->" | safeHTML}}
                 <div class="title text-center">
-                    <h2> {{ with .Site.Data.direction.heading }} {{ . }} {{ end }} <span
-                            class="color">{{ with .Site.Data.direction.headingSpan }} {{ . }} {{ end }}</span></h2>
+                    <h2> {{ with .Site.Data.direction.heading }} {{ . }} {{ end }} <span class="color">
+                            {{ with .Site.Data.direction.headingSpan }} {{ . }} {{ end }}</span></h2>
                     <div class="border-meghna"></div>
                 </div>
-                {{"<!-- /section title -->" | safeHTML}}
             </div>
         </div>
 
         <div class="row portfolio-items-wrapper">
-            {{"<!-- direction item -->" | safeHTML}}
             {{ range .Site.Data.direction.directionItem }}
             <div class="mix col-lg-4 {{ .types }}">
                 <div class="portfolio-block">
@@ -22,7 +18,7 @@
                     <div class="caption">
 
                         <a href="{{ .link | absURL }}">
-                            <h4 class="product-title">{{ .title }}</h4>
+                            <h4>{{ .title }}</h4>
                             <p>{{ .description }}</p>
                         </a>
                     </div>
@@ -32,4 +28,3 @@
         </div>
     </div>
 </section>
-{{"<!-- /directiodirectionn -->" | safeHTML}}

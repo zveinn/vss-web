@@ -167,7 +167,7 @@ var wow = new WOW({
 
 //https://github.com/matthieua/WOW/issues/196#issuecomment-348734401
 var scrolled = false;
-$(window).on('scroll', function() {
+$(window).on('scroll', function () {
 	if (!scrolled) {
 		scrolled = true;
 		wow.init();
@@ -298,18 +298,18 @@ google.maps.event.addDomListener(window, "load", initialize);
 /* ========================================================================= */
 /*	Staticman comments reply
 /* ========================================================================= */
-function changeValue(elementName, newValue){
-	document.getElementsByName(elementName)[0].value=newValue;
+function changeValue(elementName, newValue) {
+	document.getElementsByName(elementName)[0].value = newValue;
 };
 
 /* ========================================================================= */
 /*	Honeypot
 /* ========================================================================= */
-$(document).ready(function() {
-    $('form').submit(function() {
-        if ($('input[type="text"]#e-mail').val().length > 0) {
-            $('form').attr('action', '/');
-            return false;
-        }
-    });
+$(document).ready(function () {
+	$('form').submit(function () {
+		if ($('input[type="text"]#e-mail').val().length > 0) {
+			$('form').attr('action', '/');
+			return false;
+		}
+	});
 });

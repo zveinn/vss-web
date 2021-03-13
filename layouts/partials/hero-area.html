@@ -1,4 +1,5 @@
-<section class="hero-area" style='background-image: url("{{ .Site.Params.banner.bgImage | absURL }}");'>
+<!-- <section class="hero-area" style='background-image: url("{{ .Site.Params.banner.bgImage | absURL }}");'> -->
+<section class="hero-area">
   <div class="block">
     <!-- <div class="video-button">
            {{with .Site.Params.banner.icon}} <i class="{{ . }}"></i> {{ end }}
@@ -15,6 +16,7 @@
     <!-- <a target="blank_" href="https://www.creditinfo.is/framurskarandi/default.aspx">
       <img class="banner-logo" src="images/logos/best-2018.png" alt="meow"></img></a> -->
     <img class="logo" src="{{ .Site.Params.banner.icon }}" />
+    <img class="best" src="{{ .Site.Params.banner.best }}" />
     <!--  {{ if .Site.Params.banner.btn}}
     <a data-scroll href="{{ .Site.Params.banner.btnURL}}"
       class="btn btn-transparent">{{ .Site.Params.banner.btnText}}</a>

@@ -27,7 +27,7 @@ h5,
 h6 {
   font-weight: 600;
   font-family: "system-ui";
-  color: #afbac4;
+  color: #ffffff;
    text-shadow: 0 0 3px #000; /* horizontal-offset vertical-offset 'blur' colour */
   -moz-text-shadow: 0 0 3px #000;
   -webkit-text-shadow: 0 0 3px #000;
@@ -40,9 +40,6 @@ p,span {
   font-family: "system-ui", sans-serif;
 }
 
-[scroll-behavior=smooth] {
-  scroll-behavior: smooth;
-}
 
 pre {
   color: #afbac4;
@@ -491,7 +488,17 @@ a:hover {
 .logo {
   margin-top: 40px;
   display: inline-block;
+  height:100px;
 }
+
+.best {
+  display: inline-block;
+    height: 90px;
+    position: absolute;
+    top: -10px;
+    left: -10px;
+}
+
 
 .single-page-header {
   background-image: url("../images/about/about-header.jpg");
@@ -1028,8 +1035,8 @@ a:hover {
 
 .portfolio-block:before {
   transition: all 0.3s ease-in-out;
-  background: rgba(255, 255, 255, 0.651);
-  opacity: 0;
+  background: rgba(77, 77, 77, 0.674);
+  /* opacity: 0; */
   top: 20px;
   right: 20px;
   bottom: 20px;
@@ -1063,7 +1070,7 @@ a:hover {
   position: absolute;
   top: 50%;
   left: 50%;
-  opacity: 0;
+  /* opacity: 0; */
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   z-index: 9;
@@ -1077,10 +1084,10 @@ a:hover {
   font-weight: 600;
 }
 .portfolio-block .caption p {
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
 }
 .portfolio-block .caption h4 a {
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
 }
 
 .portfolio-block .caption .search-icon {
